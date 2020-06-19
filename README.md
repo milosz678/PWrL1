@@ -1,3 +1,2 @@
 # PWrL1
-Labolatorium 6 zawiera instrukceje 6
-Labolatoria do5 zawieraja wszystkie labolatoria z tamteego roku. Miałem problem z tworzeniem nowych projektow dlatego wszystko znajduje sie w jednym projekcie. Nie przerabialem tego szczegulnie wyslalem bo maiłem nawałnice projektów.
+Laboratorium 6 zawiera instrukcje 6 Laboratoria do5 zawierają wszystkie laboratoria z tamtego roku. Miałem problem z tworzeniem nowych projektów dlatego wszystko znajduje sie w jednym projekcie. Nie przerabiałem tego szczególnie wysłałem bo maiłem nawałnice projektów.
